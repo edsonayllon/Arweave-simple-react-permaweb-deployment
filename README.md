@@ -1,4 +1,4 @@
-# airweave test
+# ARWeave Simple React Permaweb Deployment
 
 ## 1 | Description 
 
