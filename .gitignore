@@ -5,6 +5,12 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+.expo
+
+web-build
+
+.DS_Store
+
 # Runtime data
 pids
 *.pid
