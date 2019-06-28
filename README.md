@@ -20,22 +20,9 @@ npm install
 npm run build
 ```
 
-In the build folder, in `index.html` set the absolute paths to relative paths. 
+This build is made to compile an `index.html` file made for local, instead of a server, file dependency paths. To reset it to default, remove the `homepage` property inside of `package.json`.
 
-Example
-
-```
-<script src="/static/js/main.2ae83226.chunk.js"></script>
-
-// to
-
-<script src="./static/js/main.2ae83226.chunk.js"></script>
-
-```
-
-Using this fix, imported images may not be supported. 
-
-Check your project by opening `index.html` inside the build directory.
+The Arweave CLI will not package images into a single upload. To include images, upload the image files separately on Arweave then link, or link to your externally hosted images such as uploading your images to https://imgur.com. 
 
 ### 2.3 Ready your AR account
 
