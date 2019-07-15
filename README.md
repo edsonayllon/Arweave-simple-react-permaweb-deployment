@@ -20,7 +20,7 @@ npm install
 npm run build
 ```
 
-This build is made to compile an `index.html` file made for local, instead of a server, file dependency paths. To reset it to default, remove the `homepage` property inside of `package.json`.
+This build is made to compile an `index.html` file made for local, instead of a server, file dependency paths.
 
 The Arweave CLI will not package images into a single upload. To include images, upload the image files separately on Arweave then link, or link to your externally hosted images such as uploading your images to https://imgur.com. 
 
