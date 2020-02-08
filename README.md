@@ -1,4 +1,19 @@
+---
+author: Edson Ayllon
+category: functionality
+tags:
+- Arweave
+- React
+- Permaweb
+status: complete
+twitter: https://twitter.com/relativeread
+---
+
+## Modular 18-2019
+
 # ARWeave Simple React Permaweb Deployment
+
+Arweave permanently stores an application's frontend to the Arweave blockchain. This repo was used to test deployment into Arweave. 
 
 ## 1 | Description 
 
