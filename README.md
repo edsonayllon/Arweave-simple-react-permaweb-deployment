@@ -15,7 +15,7 @@ twitter: https://twitter.com/relativeread
 
 Arweave permanently stores an application's frontend to the Arweave blockchain. This repo was used to test deployment into Arweave. 
 
-## 1 | Description 
+## 1. Description 
 
 Testing React app deployment on the AR Weave hosting blockchain platform. Meant for deploying to the AR permaweb. 
 
@@ -23,7 +23,7 @@ Example deployment found here: [https://arweave.net/0zw_3VA0vRWHBeaJ8KKPcxPaHvYj
 
 ![Example Deployment](example.png)
 
-## 2 | Instructions
+## 2. Instructions
 
 ### 2.2 Ready the build
 
